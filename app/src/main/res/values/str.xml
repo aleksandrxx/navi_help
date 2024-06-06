@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clear_bookamrk"><u>"очистить закладки</u></string>
+    <string name="clear_story"><u>очистить историю</u></string>
+</resources>
